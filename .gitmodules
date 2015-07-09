@@ -1,0 +1,12 @@
+[submodule "Acerose"]
+	path = Acerose
+	url = git@github.com:Acerose/Acerose.git
+[submodule "Acerose-API"]
+	path = Acerose-API
+	url = git@github.com:Acerose/Acerose-API.git
+[submodule "Acerose-Spec"]
+	path = Acerose-Spec
+	url = git@github.com:Acerose/Acerose-Spec.git
+[submodule "acerose.github.io"]
+	path = acerose.github.io
+	url = git@github.com:Acerose/acerose.github.io.git
